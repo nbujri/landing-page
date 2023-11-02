@@ -33,6 +33,13 @@ body {
     font-weight: extra-bold;
     color: #1f2937;
 }
+
+.quote-txt {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
 /* end typography */
 
 /* hero section */
@@ -88,7 +95,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 50px 0;
+    padding: 50px 10%;
 }
 
 .info-subtitle {
@@ -112,3 +119,15 @@ body {
     border-radius: 8px;
 }
 /* end information */
+
+/* quote section */
+.quote {
+    background-color: #e5e7eb;
+    padding: 100px 10%;
+}
+
+.attribution {
+    float: right;
+    font-weight: bold;
+}
+/* end quote */
