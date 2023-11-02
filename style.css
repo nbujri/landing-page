@@ -27,6 +27,12 @@ body {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.info-subtitle {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
+}
 /* end typography */
 
 /* hero section */
