@@ -131,3 +131,36 @@ body {
     font-weight: bold;
 }
 /* end quote */
+
+/* call to action section */
+.call-to-action {
+    padding: 100px 10%;
+}
+
+.cta-card {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    border-radius: 8px;
+}
+
+.cta-main-txt {
+    font-weight: bold;
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.cta-secondary-txt {
+    color: #e5e7eb;
+}
+
+.cta-btn {
+    color: #f9faf8;
+    font-weight: bold;
+    text-decoration: none;
+    border: 2px solid #f9faf8;
+    border-radius: 8px;
+    padding: 6px 24px;
+}
+/* end call to action */
