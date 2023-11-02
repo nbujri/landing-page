@@ -74,3 +74,35 @@ body {
     max-width: fit-content;
 }
 /* end hero */
+
+/* information section */
+.information {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.info-subtitle {
+    padding-bottom: 50px;
+}
+
+.info-container {
+    display: flex;
+    gap: 32px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 8px;
+}
+
+.card-img {
+    border: 2px solid #3882f6;
+    border-radius: 8px;
+}
+/* end information */
